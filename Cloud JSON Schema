@@ -1,0 +1,93 @@
+{
+  "rooms": {
+    "Room_D117": {
+      "overall": "ON",
+      "relayStatus": "OFF",
+      "nextChange": "",
+      "currentDay": "",
+      "currentTime": "",
+      "currentSlot": "NONE",
+      "activeIndex": -1,
+      "debugMessage": "",
+      "days": {
+        "Mon": {
+          "0": { "start": "09:05", "end": "12:55", "status": "ON" },
+          "1": { "start": "12:55", "end": "13:25", "status": "OFF" },
+          "2": { "start": "13:25", "end": "16:45", "status": "ON" }
+        },
+        "Tue": {
+          "0": { "start": "09:05", "end": "12:55", "status": "ON" },
+          "1": { "start": "12:55", "end": "13:25", "status": "OFF" },
+          "2": { "start": "13:25", "end": "15:05", "status": "ON" }
+        },
+        "Wed": {
+          "0": { "start": "10:45", "end": "12:55", "status": "ON" },
+          "1": { "start": "12:55", "end": "13:25", "status": "OFF" },
+          "2": { "start": "13:25", "end": "15:05", "status": "ON" }
+        },
+        "Thu": {
+          "0": { "start": "09:05", "end": "12:55", "status": "ON" },
+          "1": { "start": "12:55", "end": "13:25", "status": "OFF" },
+          "2": { "start": "13:25", "end": "15:05", "status": "ON" }
+        },
+        "Fri": {
+          "0": { "start": "09:05", "end": "12:55", "status": "ON" },
+          "1": { "start": "12:55", "end": "13:25", "status": "OFF" },
+          "2": { "start": "13:25", "end": "14:15", "status": "ON" }
+        },
+        "Sat": {},
+        "Sun": {}
+      }
+    },
+    "Room_D047": {
+      "overall": "ON",
+      "relayStatus": "OFF",
+      "nextChange": "",
+      "currentDay": "",
+      "currentTime": "",
+      "currentSlot": "NONE",
+      "activeIndex": -1,
+      "debugMessage": "",
+      "days": {
+        "Mon": {
+          "0": { "start": "09:05", "end": "12:55", "status": "ON" },
+          "1": { "start": "12:55", "end": "13:25", "status": "OFF" },
+          "2": { "start": "13:25", "end": "15:05", "status": "ON" }
+        },
+        "Tue": {
+          "0": { "start": "09:05", "end": "12:55", "status": "ON" },
+          "1": { "start": "12:55", "end": "13:25", "status": "OFF" },
+          "2": { "start": "13:25", "end": "16:45", "status": "ON" }
+        },
+        "Wed": {
+          "0": { "start": "09:05", "end": "12:55", "status": "ON" },
+          "1": { "start": "12:55", "end": "13:25", "status": "OFF" },
+          "2": { "start": "13:25", "end": "16:45", "status": "ON" }
+        },
+        "Thu": {
+          "0": { "start": "09:05", "end": "12:55", "status": "ON" },
+          "1": { "start": "12:55", "end": "13:25", "status": "OFF" }
+        },
+        "Fri": {
+          "0": { "start": "09:05", "end": "12:55", "status": "ON" },
+          "1": { "start": "12:55", "end": "13:25", "status": "OFF" },
+          "2": { "start": "13:25", "end": "15:05", "status": "ON" }
+        },
+        "Sat": {},
+        "Sun": {}
+      }
+    }
+  },
+  "occupancy": {
+    "Room_D117": true,
+    "Room_D047": true
+  },
+  "control": {
+    "Room_D117": "AUTO",
+    "Room_D047": "AUTO"
+  },
+  "manual": {
+    "Room_D117": "OFF",
+    "Room_D047": "OFF"
+  }
+}
